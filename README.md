@@ -129,5 +129,7 @@ You can access all project files via the following Google Drive link:
 https://drive.google.com/drive/folders/13b7R1UFki6zKIr5rlA9zAoxrHBet5Cnr?usp=sharing
 
 Developed by: Fadekemi Adefemi
+
 Email: fadekemiadefemi22@gmail.com 
+
 LinkedIn: http://www.linkedin.com/in/fadekemi-adefemi0129/
